@@ -3,7 +3,7 @@ Assumptions:
   * Possible for large investors who can maintian a balance across exchanges
   * In real life, must compute minimum weight cycle in t time.
 * No fees
- * Large capital can make a profit
+  * Large capital can make a profit
 
 Features
 * New algorithm is faster than APSP
